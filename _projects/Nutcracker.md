@@ -1,7 +1,6 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
+title: Nutcracker
+description: Class project
 image: /assets/images/function-graph.png
 ---
