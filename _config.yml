@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Dijonay Mills
 description              : Dijonay Mills
-baseurl                  : "/sp26-profolio-drm328" 
+baseurl                  : "/sp26-portfolio-drm328" 
 
 # Theme and Style
 theme: jekyll-theme-minimal
