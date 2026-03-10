@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dijonay Mills"
+title                    : Dijonay Mills
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dijonay Mills"
-description              : "Dijonay Mills"
+name                     : Dijonay Mills
+description              : Dijonay Mills
 baseurl                  : "/sp26-profolio-drm328" 
 url: "https://cornell-mae-ug.github.io"
 
