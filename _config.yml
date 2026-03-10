@@ -14,7 +14,6 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : Dijonay Mills
 description              : Dijonay Mills
 baseurl                  : "/sp26-profolio-drm328" 
-url: "https://cornell-mae-ug.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal
