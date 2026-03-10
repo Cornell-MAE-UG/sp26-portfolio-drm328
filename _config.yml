@@ -8,12 +8,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : "Dijonay Mills"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : "Dijonay Mills"
+description              : "Dijonay Mills"
+baseurl                  : "/sp26-profolio-drm328" 
+url: "https://cornell-mae-ug.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal
