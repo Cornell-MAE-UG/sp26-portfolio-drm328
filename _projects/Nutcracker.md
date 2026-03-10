@@ -5,6 +5,6 @@ description: Class project
 image: /assets/images/Nutcracker.jpeg
 ---
 I designed:
-![]({{ '/assets/images/Nutcracker.jpeg' | relative_url }})
+  ![]({{ '/assets/images/Nutcracker.jpeg' | relative_url }})
 
 
