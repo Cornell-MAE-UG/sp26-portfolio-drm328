@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Nutcracker
+title: Handle Deflection
 description: Class project
-image: /assets/images/Nutcracker.jpeg
+image: /assets/images/IMG_3766.jpeg
 ---
 I designed:
    ![]({{'/assets/images/IMG_3766.jpeg'| relative_url}})
